@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{638BCE72-B4C8-435C-B4EA-0C060E076447}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{CD8E827A-AE21-480E-BFC8-F01738D72FB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{638BCE72-B4C8-435C-B4EA-0C060E076447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{638BCE72-B4C8-435C-B4EA-0C060E076447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{638BCE72-B4C8-435C-B4EA-0C060E076447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8E827A-AE21-480E-BFC8-F01738D72FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8E827A-AE21-480E-BFC8-F01738D72FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8E827A-AE21-480E-BFC8-F01738D72FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8E827A-AE21-480E-BFC8-F01738D72FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
